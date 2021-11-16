@@ -69,3 +69,5 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 Lag så to variabler og gi hver av disse et tilfeldig tall mellom 1 og 6 fra funksjonen du lagde. Hvis disse to tallene er like
 skal du skrive ut teksten i konsollen: `Du fikk to like og kan gå videre på neste kast.` Hvis tallene ikke er like skal 
 teksten `Du fikk ikke to like og må stå over neste kast.` skrives i konsollen.
+
+Hjertelig takk til Espen Raugstad som lagde oppgavesettet i 2020.
